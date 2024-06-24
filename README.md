@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Vector Databases,Generative AI and NLP based projects**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: mukunth1026@gmail.com</h3>
 <p align="left">
 </p>
 
